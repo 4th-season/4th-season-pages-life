@@ -1,0 +1,10 @@
+{
+  "schema": "4th-season.public-article-request/v1",
+  "operation": "CONTENT_ADD",
+  "article_id": "REBUILD-R3-151",
+  "slug": "guilt-when-saying-no",
+  "parent_map": "life/rebuild/relation/people-pleasing-rejection",
+  "cover": "assets/rebuild/guilt-when-saying-no-cover.webp",
+  "marker": "REBUILD_R3_151_REFUSAL_GUILT_20261117",
+  "job_id": "REBUILD-R3-151-REFUSAL-GUILT-20261117-001"
+}
